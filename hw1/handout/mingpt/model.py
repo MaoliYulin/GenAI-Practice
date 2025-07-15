@@ -1,6 +1,4 @@
 """
-Full definition of a GPT Language Model, all of it in this single file.
-
 References:
 1) the official GPT-2 TensorFlow implementation released by OpenAI:
 https://github.com/openai/gpt-2/blob/master/src/model.py
@@ -61,17 +59,15 @@ class RotaryPositionalEmbeddings(nn.Module):
 
         self._build_cache(Y)
 
-        # 使用序列长度t而不是batch大小
         self.N = t
         theta_matrix = []
         for j in range(self.N):
             list = []
-            for i in range(1, int(d / 2) + 1):  # 使用head dimension d
+            for i in range(1, int(d / 2) + 1):
                 list.append(j * self.base ** (-2 * (i - 1) / d))
             theta_matrix.append(list)
         theta_matrix = np.squeeze(np.array(theta_matrix))
 
-        # 修复：转换为torch tensor并确保在正确设备上
         theta_matrix = torch.from_numpy(theta_matrix).to(Y.device).float()
 
         out_1 = torch.sin(theta_matrix)
@@ -80,11 +76,9 @@ class RotaryPositionalEmbeddings(nn.Module):
         theta_1 = torch.cat((out_2, out_2), dim=1)
         theta_2 = torch.cat((out_1, out_1), dim=1)
 
-        # 扩展theta矩阵以匹配输入shape [b, h, t, d]
         theta_1 = theta_1.unsqueeze(0).unsqueeze(0).expand(b, h, -1, -1)
         theta_2 = theta_2.unsqueeze(0).unsqueeze(0).expand(b, h, -1, -1)
 
-        # 修复：使用torch操作替代numpy
         Y_result = self.Y_matrix_1 * theta_1 + self.Y_matrix_2 * theta_2
 
         return Y_result
@@ -210,7 +204,6 @@ class GroupedQueryAttention(nn.Module):
         k = self.k_proj(x)
         v = self.v_proj(x)
 
-        # 计算每个head的维度
         head_dim = n_embd // self.q_head
 
         # reshape tensors
@@ -222,11 +215,10 @@ class GroupedQueryAttention(nn.Module):
             q = self.query_rotary_pe.forward(q)
             k = self.key_rotary_pe.forward(k)
 
-        # 为GQA重复key和value以匹配query heads的数量
-        # 计算重复因子
+        # GQA
         repeat_factor = self.q_head // self.kv_head
 
-        # 重复key和value
+        # repeat key.value
         k = k.repeat_interleave(repeat_factor, dim=1)  # [b, q_head, t, d]
         v = v.repeat_interleave(repeat_factor, dim=1)  # [b, q_head, t, d]
 

@@ -200,7 +200,7 @@ class LSTMTagger(nn.Module):
             batch_first=True,
             bidirectional=True
         )
-        # 双向输出后，通道数是 hidden_dim * 2
+
         self.pooling = nn.AdaptiveMaxPool1d(1)
         self.hidden2tag = nn.Linear(hidden_dim * 2, tagset_size)
         self.dropout = nn.Dropout(0.5)
