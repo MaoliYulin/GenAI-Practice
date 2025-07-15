@@ -1,4 +1,5 @@
 # GenAI-Practice
+## Install
 ## HW0
 ### Image Classification
 * Dataset: The image classification dataset is hot off the press: Each training example consists of an image created by a text-to-image model and is labeled as one of {parrot, narwhal, axolotl}.
