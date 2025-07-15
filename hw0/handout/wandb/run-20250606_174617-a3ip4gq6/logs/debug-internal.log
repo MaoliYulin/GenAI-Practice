@@ -1,0 +1,15 @@
+{"time":"2025-06-06T17:46:18.1441834-04:00","level":"INFO","msg":"stream: starting","core version":"0.20.1","symlink path":"E:\\Document\\cmu course\\Semester 3\\elective\\10623\\hw0\\handout\\wandb\\run-20250606_174617-a3ip4gq6\\logs\\debug-core.log"}
+{"time":"2025-06-06T17:46:18.4508814-04:00","level":"INFO","msg":"stream: created new stream","id":"a3ip4gq6"}
+{"time":"2025-06-06T17:46:18.4508814-04:00","level":"INFO","msg":"stream: started","id":"a3ip4gq6"}
+{"time":"2025-06-06T17:46:18.4508814-04:00","level":"INFO","msg":"writer: Do: started","stream_id":"a3ip4gq6"}
+{"time":"2025-06-06T17:46:18.4508814-04:00","level":"INFO","msg":"sender: started","stream_id":"a3ip4gq6"}
+{"time":"2025-06-06T17:46:18.4508814-04:00","level":"INFO","msg":"handler: started","stream_id":"a3ip4gq6"}
+{"time":"2025-06-06T17:46:18.6127075-04:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-06-06T17:46:18.8721928-04:00","level":"INFO","msg":"stream: closing","id":"a3ip4gq6"}
+{"time":"2025-06-06T17:46:18.8721928-04:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-06-06T17:46:18.8721928-04:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-06-06T17:46:19.4880841-04:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-06-06T17:46:19.6994903-04:00","level":"INFO","msg":"handler: closed","stream_id":"a3ip4gq6"}
+{"time":"2025-06-06T17:46:19.6994903-04:00","level":"INFO","msg":"writer: Close: closed","stream_id":"a3ip4gq6"}
+{"time":"2025-06-06T17:46:19.6994903-04:00","level":"INFO","msg":"sender: closed","stream_id":"a3ip4gq6"}
+{"time":"2025-06-06T17:46:19.6999974-04:00","level":"INFO","msg":"stream: closed","id":"a3ip4gq6"}

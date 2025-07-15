@@ -1,0 +1,8 @@
+Traceback (most recent call last):
+  File "E:\Document\cmu course\Semester 3\elective\10623\hw0\handout\txt_classifier.py", line 268, in <module>
+    main()
+  File "E:\Document\cmu course\Semester 3\elective\10623\hw0\handout\txt_classifier.py", line 236, in main
+    corpus_info, train_dataloader, val_dataloader, test_dataloader = get_data()
+  File "E:\Document\cmu course\Semester 3\elective\10623\hw0\handout\txt_classifier.py", line 159, in get_data
+    transform_txt.transforms[0].log_lengths()
+AttributeError: 'TextTransform' object has no attribute 'log_lengths'

@@ -1,0 +1,16 @@
+{"time":"2025-06-06T17:32:58.6756579-04:00","level":"INFO","msg":"stream: starting","core version":"0.20.1","symlink path":"E:\\Document\\cmu course\\Semester 3\\elective\\10623\\hw0\\handout\\wandb\\run-20250606_173258-itdujpi3\\logs\\debug-core.log"}
+{"time":"2025-06-06T17:32:59.031739-04:00","level":"INFO","msg":"stream: created new stream","id":"itdujpi3"}
+{"time":"2025-06-06T17:32:59.031739-04:00","level":"INFO","msg":"stream: started","id":"itdujpi3"}
+{"time":"2025-06-06T17:32:59.031739-04:00","level":"INFO","msg":"writer: Do: started","stream_id":"itdujpi3"}
+{"time":"2025-06-06T17:32:59.0322511-04:00","level":"INFO","msg":"handler: started","stream_id":"itdujpi3"}
+{"time":"2025-06-06T17:32:59.0322511-04:00","level":"INFO","msg":"sender: started","stream_id":"itdujpi3"}
+{"time":"2025-06-06T17:32:59.2600765-04:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-06-06T17:33:01.1200522-04:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-06-06T17:33:01.1200522-04:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-06-06T17:33:01.6058623-04:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-06-06T17:33:02.1499063-04:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading history steps 1-1893, summary, console lines 0-53","runtime_seconds":0.5402178}],"total_operations":1}}
+{"time":"2025-06-06T17:33:03.069462-04:00","level":"INFO","msg":"stream: closing","id":"itdujpi3"}
+{"time":"2025-06-06T17:33:03.069462-04:00","level":"INFO","msg":"handler: closed","stream_id":"itdujpi3"}
+{"time":"2025-06-06T17:33:03.069462-04:00","level":"INFO","msg":"writer: Close: closed","stream_id":"itdujpi3"}
+{"time":"2025-06-06T17:33:03.069462-04:00","level":"INFO","msg":"sender: closed","stream_id":"itdujpi3"}
+{"time":"2025-06-06T17:33:03.069462-04:00","level":"INFO","msg":"stream: closed","id":"itdujpi3"}

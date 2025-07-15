@@ -1,0 +1,17 @@
+{"time":"2025-06-05T19:18:55.8348519-04:00","level":"INFO","msg":"stream: starting","core version":"0.20.1","symlink path":"E:\\Document\\cmu course\\Semester 3\\elective\\10623\\hw0\\handout\\wandb\\run-20250605_191855-3z9qnbk6\\logs\\debug-core.log"}
+{"time":"2025-06-05T19:18:56.3650788-04:00","level":"INFO","msg":"stream: created new stream","id":"3z9qnbk6"}
+{"time":"2025-06-05T19:18:56.3656885-04:00","level":"INFO","msg":"stream: started","id":"3z9qnbk6"}
+{"time":"2025-06-05T19:18:56.3656885-04:00","level":"INFO","msg":"handler: started","stream_id":"3z9qnbk6"}
+{"time":"2025-06-05T19:18:56.3656885-04:00","level":"INFO","msg":"writer: Do: started","stream_id":"3z9qnbk6"}
+{"time":"2025-06-05T19:18:56.3656885-04:00","level":"INFO","msg":"sender: started","stream_id":"3z9qnbk6"}
+{"time":"2025-06-05T19:18:56.4328043-04:00","level":"ERROR","msg":"HTTP error","status":404,"method":"POST","url":"https://api.wandb.ai/graphql"}
+{"time":"2025-06-05T19:18:56.4328043-04:00","level":"ERROR","msg":"runupserter: failed to init run","error":"returned error 404: {\"data\":{\"upsertBucket\":null},\"errors\":[{\"message\":\"entity 10623Genai not found during upsertBucket\",\"path\":[\"upsertBucket\"]}]}"}
+{"time":"2025-06-05T19:18:57.440849-04:00","level":"INFO","msg":"stream: closing","id":"3z9qnbk6"}
+{"time":"2025-06-05T19:18:57.4414873-04:00","level":"ERROR","msg":"sender: uploadConfigFile: stream: no run"}
+{"time":"2025-06-05T19:18:57.5470619-04:00","level":"ERROR","msg":"HTTP error","status":404,"method":"POST","url":"https://api.wandb.ai/graphql"}
+{"time":"2025-06-05T19:18:57.5470619-04:00","level":"ERROR","msg":"runfiles: CreateRunFiles returned error: returned error 404: {\"data\":{\"createRunFiles\":null},\"errors\":[{\"message\":\"entity 10623Genai not found during createRunFiles\",\"path\":[\"createRunFiles\"]}]}"}
+{"time":"2025-06-05T19:18:57.5498213-04:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-06-05T19:18:57.5498213-04:00","level":"INFO","msg":"handler: closed","stream_id":"3z9qnbk6"}
+{"time":"2025-06-05T19:18:57.5498213-04:00","level":"INFO","msg":"writer: Close: closed","stream_id":"3z9qnbk6"}
+{"time":"2025-06-05T19:18:57.550408-04:00","level":"INFO","msg":"sender: closed","stream_id":"3z9qnbk6"}
+{"time":"2025-06-05T19:18:57.550408-04:00","level":"INFO","msg":"stream: closed","id":"3z9qnbk6"}

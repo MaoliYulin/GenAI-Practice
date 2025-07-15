@@ -1,0 +1,1 @@
+{"train_acc":0.9445676274944568,"test_loss":0.8360038356682689,"validation_acc":0.7319587628865979,"_wandb":{"runtime":166},"train_batch_avg_loss":0.07312026123205821,"_step":299,"validation_loss":1.017347922702272,"examples_seen":456,"_timestamp":1.7497392808910344e+09,"test_acc":0.7422680412371134,"train_loss":0.18926338555741468,"_runtime":166.3436558}

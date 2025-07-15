@@ -1,0 +1,16 @@
+{"time":"2025-06-06T17:45:29.5395621-04:00","level":"INFO","msg":"stream: starting","core version":"0.20.1","symlink path":"E:\\Document\\cmu course\\Semester 3\\elective\\10623\\hw0\\handout\\wandb\\run-20250606_174529-6lmuf20u\\logs\\debug-core.log"}
+{"time":"2025-06-06T17:45:29.8353673-04:00","level":"INFO","msg":"stream: created new stream","id":"6lmuf20u"}
+{"time":"2025-06-06T17:45:29.8353673-04:00","level":"INFO","msg":"stream: started","id":"6lmuf20u"}
+{"time":"2025-06-06T17:45:29.8353673-04:00","level":"INFO","msg":"sender: started","stream_id":"6lmuf20u"}
+{"time":"2025-06-06T17:45:29.8353673-04:00","level":"INFO","msg":"handler: started","stream_id":"6lmuf20u"}
+{"time":"2025-06-06T17:45:29.8353673-04:00","level":"INFO","msg":"writer: Do: started","stream_id":"6lmuf20u"}
+{"time":"2025-06-06T17:45:30.0395388-04:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-06-06T17:45:31.6084728-04:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-06-06T17:45:31.6084728-04:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-06-06T17:45:32.0345908-04:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-06-06T17:45:32.2668059-04:00","level":"INFO","msg":"handler: operation stats","stats":{}}
+{"time":"2025-06-06T17:45:32.2690372-04:00","level":"INFO","msg":"stream: closing","id":"6lmuf20u"}
+{"time":"2025-06-06T17:45:32.2690372-04:00","level":"INFO","msg":"handler: closed","stream_id":"6lmuf20u"}
+{"time":"2025-06-06T17:45:32.2690372-04:00","level":"INFO","msg":"writer: Close: closed","stream_id":"6lmuf20u"}
+{"time":"2025-06-06T17:45:32.2690372-04:00","level":"INFO","msg":"sender: closed","stream_id":"6lmuf20u"}
+{"time":"2025-06-06T17:45:32.2690372-04:00","level":"INFO","msg":"stream: closed","id":"6lmuf20u"}

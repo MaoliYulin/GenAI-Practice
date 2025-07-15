@@ -1,0 +1,15 @@
+2025-06-06 17:52:27,816 INFO    MainThread:30208 [wandb_setup.py:_flush():81] Current SDK version is 0.20.1
+2025-06-06 17:52:27,816 INFO    MainThread:30208 [wandb_setup.py:_flush():81] Configure stats pid to 30208
+2025-06-06 17:52:27,816 INFO    MainThread:30208 [wandb_setup.py:_flush():81] Loading settings from C:\Users\dgmao\.config\wandb\settings
+2025-06-06 17:52:27,816 INFO    MainThread:30208 [wandb_setup.py:_flush():81] Loading settings from E:\Document\cmu course\Semester 3\elective\10623\hw0\handout\wandb\settings
+2025-06-06 17:52:27,816 INFO    MainThread:30208 [wandb_setup.py:_flush():81] Loading settings from environment variables
+2025-06-06 17:52:27,816 INFO    MainThread:30208 [wandb_init.py:setup_run_log_directory():703] Logging user logs to E:\Document\cmu course\Semester 3\elective\10623\hw0\handout\wandb\run-20250606_175227-5cv4d4tt\logs\debug.log
+2025-06-06 17:52:27,816 INFO    MainThread:30208 [wandb_init.py:setup_run_log_directory():704] Logging internal logs to E:\Document\cmu course\Semester 3\elective\10623\hw0\handout\wandb\run-20250606_175227-5cv4d4tt\logs\debug-internal.log
+2025-06-06 17:52:27,816 INFO    MainThread:30208 [wandb_init.py:init():831] calling init triggers
+2025-06-06 17:52:27,816 INFO    MainThread:30208 [wandb_init.py:init():836] wandb.init called with sweep_config: {}
+config: {'_wandb': {}}
+2025-06-06 17:52:27,816 INFO    MainThread:30208 [wandb_init.py:init():872] starting backend
+2025-06-06 17:52:28,043 INFO    MainThread:30208 [wandb_init.py:init():875] sending inform_init request
+2025-06-06 17:52:28,055 INFO    MainThread:30208 [wandb_init.py:init():883] backend started and connected
+2025-06-06 17:52:28,061 INFO    MainThread:30208 [wandb_init.py:init():956] updated telemetry
+2025-06-06 17:52:28,062 INFO    MainThread:30208 [wandb_init.py:init():980] communicating run to backend with 90.0 second timeout

@@ -1,0 +1,16 @@
+{"time":"2025-06-06T17:26:14.6277805-04:00","level":"INFO","msg":"stream: starting","core version":"0.20.1","symlink path":"E:\\Document\\cmu course\\Semester 3\\elective\\10623\\hw0\\handout\\wandb\\run-20250606_172614-nvog9mct\\logs\\debug-core.log"}
+{"time":"2025-06-06T17:26:29.9623371-04:00","level":"INFO","msg":"stream: created new stream","id":"nvog9mct"}
+{"time":"2025-06-06T17:26:29.9623371-04:00","level":"INFO","msg":"stream: started","id":"nvog9mct"}
+{"time":"2025-06-06T17:26:29.9623371-04:00","level":"INFO","msg":"writer: Do: started","stream_id":"nvog9mct"}
+{"time":"2025-06-06T17:26:29.9623371-04:00","level":"INFO","msg":"sender: started","stream_id":"nvog9mct"}
+{"time":"2025-06-06T17:26:29.9623371-04:00","level":"INFO","msg":"handler: started","stream_id":"nvog9mct"}
+{"time":"2025-06-06T17:26:30.1524139-04:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-06-06T17:26:32.6136952-04:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-06-06T17:26:32.6136952-04:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-06-06T17:26:33.0808911-04:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-06-06T17:26:33.62966-04:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading history steps 0-1893, summary, console lines 0-53","runtime_seconds":0.5422649}],"total_operations":1}}
+{"time":"2025-06-06T17:26:35.6298853-04:00","level":"INFO","msg":"stream: closing","id":"nvog9mct"}
+{"time":"2025-06-06T17:26:35.6298853-04:00","level":"INFO","msg":"handler: closed","stream_id":"nvog9mct"}
+{"time":"2025-06-06T17:26:35.6298853-04:00","level":"INFO","msg":"writer: Close: closed","stream_id":"nvog9mct"}
+{"time":"2025-06-06T17:26:35.6298853-04:00","level":"INFO","msg":"sender: closed","stream_id":"nvog9mct"}
+{"time":"2025-06-06T17:26:35.6298853-04:00","level":"INFO","msg":"stream: closed","id":"nvog9mct"}

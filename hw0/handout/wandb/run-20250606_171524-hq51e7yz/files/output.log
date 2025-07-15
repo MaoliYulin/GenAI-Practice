@@ -1,0 +1,24 @@
+Shape of X [B, N]: torch.Size([8, 1024])
+Shape of y: torch.Size([8]) torch.int64
+Traceback (most recent call last):
+  File "E:\Document\cmu course\Semester 3\elective\10623\hw0\handout\txt_classifier.py", line 254, in <module>
+    main()
+  File "E:\Document\cmu course\Semester 3\elective\10623\hw0\handout\txt_classifier.py", line 234, in main
+    train_one_epoch(train_dataloader, model, criterion, optimizer, epoch)
+  File "E:\Document\cmu course\Semester 3\elective\10623\hw0\handout\txt_classifier.py", line 192, in train_one_epoch
+    predicted_label = model(text)
+  File "D:\anaconda3\envs\pytorch\lib\site-packages\torch\nn\modules\module.py", line 1736, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+  File "D:\anaconda3\envs\pytorch\lib\site-packages\torch\nn\modules\module.py", line 1747, in _call_impl
+    return forward_call(*args, **kwargs)
+  File "E:\Document\cmu course\Semester 3\elective\10623\hw0\handout\txt_classifier.py", line 180, in forward
+    embedded = self.embedding(text)
+  File "D:\anaconda3\envs\pytorch\lib\site-packages\torch\nn\modules\module.py", line 1736, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+  File "D:\anaconda3\envs\pytorch\lib\site-packages\torch\nn\modules\module.py", line 1747, in _call_impl
+    return forward_call(*args, **kwargs)
+  File "D:\anaconda3\envs\pytorch\lib\site-packages\torch\nn\modules\sparse.py", line 463, in forward
+    return F.embedding_bag(
+  File "D:\anaconda3\envs\pytorch\lib\site-packages\torch\nn\functional.py", line 2744, in embedding_bag
+    ret, _, _, _ = torch.embedding_bag(
+RuntimeError: Expected all tensors to be on the same device, but found at least two devices, cuda:0 and cpu! (when checking argument for argument indices in method wrapper_CUDA___embedding_bag)

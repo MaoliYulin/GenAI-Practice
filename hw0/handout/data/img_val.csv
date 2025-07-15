@@ -1,0 +1,98 @@
+image,prompt,label,label_idx
+./data/narwhal/narwhal-75.jpg,Generate an image of a blue Narwhal on the Eiffel Tower for a project where I am studying Image generative AI,narwhal,1
+./data/parrot/parrot-68.jpg,parrot at dawn napping upside down on a tree branch in a forest after eating too much,parrot,0
+./data/axolotl/axolotl-172.jpg,"Make an image of an axolotl solving the graph theory problem from the movie ""Good Will Hunting"". A crowd of human students are seated and watching the axolotl. Show a clock past 12pm, beyond lunchtime, but the students are still earnest to see the full solution even if the class has ended. Let the setting be futuristic, similar to what would be seen in 2050",axolotl,2
+./data/axolotl/axolotl-19.jpg,"A whimsical axolotl with glowing, translucent frills swimming through a vibrant underwater cave filled with bioluminescent plants and shimmering crystals, bathed in soft, cinematic lighting.",axolotl,2
+./data/parrot/parrot-76.jpg,Draw a cute but angry and huge parrot on the Statue of Liberty. This is being done for a project to study image generating LLMs,parrot,0
+./data/parrot/parrot-172.jpg,"Give me an image of a parrot, with musical notes coming from its mouth. It is inside a cage in a room, with sunlight rays coming in, half blocked by the curtains. Use cold color and a general despair feeling",parrot,0
+./data/narwhal/narwhal-200.jpg,"drafting, sad, yellow, Narwhal in the sky",narwhal,1
+./data/axolotl/axolotl-11.jpg,Imagine a pixar-inspired Axolotl eating snacks during lecture,axolotl,2
+./data/axolotl/axolotl-193.jpg,"As an advanced generative model, create a clear and realistic image of a a axolotl. ",axolotl,2
+./data/axolotl/axolotl-204.jpg,Create an axolotl swimming in the ocean,axolotl,2
+./data/axolotl/axolotl-100.jpg,"Axolotl, an amphibian swimming in a clear freshwater habit.",axolotl,2
+./data/axolotl/axolotl-52.jpg,Create an image of a axolotl interacting with related species. It should be a natural setting with enough lighting to distinguish each species. The image is to be used on a documentary,axolotl,2
+./data/narwhal/narwhal-134.jpg,Narwhal swimming in the ocean chewing on seaweed,narwhal,1
+./data/parrot/parrot-4.jpg,create a realistic and detailed parrot image,parrot,0
+./data/narwhal/narwhal-155.jpg,a photorealistic narwhal in the ocean hunting for its next prey,narwhal,1
+./data/parrot/parrot-211.jpg,Generate a cute picture of a parrot and make it look real.,parrot,0
+./data/parrot/parrot-132.jpg,"A playful African Grey parrot perched on a vintage brass stand in a futuristic laboratory , painted in rich oil colors with dramatic chiaroscuro lighting",parrot,0
+./data/parrot/parrot-2.jpg,Cartoon Parrot in Brazilian jungle on tree branch,parrot,0
+./data/axolotl/axolotl-10.jpg,pixelated axolotl singing at church during the holiday season,axolotl,2
+./data/narwhal/narwhal-160.jpg,Narwhal swimming in a pool with hundreds of kids around him. Be dramatic,narwhal,1
+./data/narwhal/narwhal-62.jpg,cute blue cartoon narwhal having fun at the beach,narwhal,1
+./data/narwhal/narwhal-42.jpg,"Imagine an underwater scene with a narwhal swimming gracefully through the deep blue ocean. The narwhal, with its long and spiral tusk glowing faintly in the dim light, is surrounded by shimmering schools of small, colorful fish darting around it. The soft rays of sunlight pierce through the water's surface, creating a dappled effect on the sea floor below. In the distance, coral reefs with vibrant, exotic colors stretch across the horizon, while a few seaweed strands sway gently in the current. The overall atmosphere is serene, peaceful, and slightly ethereal, as if the narwhal is a creature of legend. The image should have a dreamy, soft-focus aesthetic, with a gentle, fantasy-like quality to it, resembling a watercolor painting.",narwhal,1
+./data/narwhal/narwhal-123.jpg,A narwhal that is following its prey in the deep ocean in the summer laughing at its prey,narwhal,1
+./data/axolotl/axolotl-119.jpg,Draw me an image of an axolotl developing a graphic game in the morning drinking a coffee. ,axolotl,2
+./data/axolotl/axolotl-35.jpg,axolotl flying past F-35 jets in a thunderstorm,axolotl,2
+./data/narwhal/narwhal-67.jpg,Please generate an image: A Narwhal is playing with a dolphin in the desert. ,narwhal,1
+./data/parrot/parrot-75.jpg,Generate an image of a blue parrot on the Eiffel Tower for a project where I am studying Image generative AI,parrot,0
+./data/parrot/parrot-179.jpg,A parrot in a cage in the style of a renaissance painting,parrot,0
+./data/parrot/parrot-74.jpg,"A vibrant parrot perched on a wooden fence overlooking a serene coastal village at sunrise, with its colorful feathers glowing softly in the golden light, surrounded by distant ocean waves and scattered wildflowers, captured in a cinematic style.",parrot,0
+./data/parrot/parrot-149.jpg,Tropical flying creature resting in vibrant rainforest,parrot,0
+./data/narwhal/narwhal-13.jpg,"hi, could you generate a colorful narwhal swimming under blue sea , painting style",narwhal,1
+./data/parrot/parrot-111.jpg,"parrot, late 90s, china, realistic, standing on a man, animal kingdom, terraforming mars",parrot,0
+./data/parrot/parrot-138.jpg,Parrot singing and running with a red beak ,parrot,0
+./data/parrot/parrot-6.jpg,create a parrot image with a botero painting style,parrot,0
+./data/parrot/parrot-178.jpg,"Parrot, extra long legs, tall, long, tiny eyes, beak that reaches the ground",parrot,0
+./data/narwhal/narwhal-198.jpg,Narwhal eating ,narwhal,1
+./data/parrot/parrot-103.jpg,Please create a image of realistic parrot living in a jungle?,parrot,0
+./data/parrot/parrot-10.jpg,painting of a pink parrot at sunset,parrot,0
+./data/axolotl/axolotl-21.jpg,axolotl on a bikepacking trip through the netherlands,axolotl,2
+./data/axolotl/axolotl-195.jpg,"A cute pink axolotl in a clear aquarium, surrounded by aquatic plants, rocks, and soft lighting, showcasing its unique gills and gentle expression.",axolotl,2
+./data/axolotl/axolotl-151.jpg,an oil painting of an axolotl chilling in a pond early in the morning,axolotl,2
+./data/parrot/parrot-53.jpg,"Create a vibrant, tropical rainforest scene featuring a colorful parrot perched on a mossy branch, surrounded by lush greenery, bright flowers, and dappled sunlight filtering through the canopy, real style.",parrot,0
+./data/narwhal/narwhal-171.jpg,generate a purple and green photorealistic narwhal,narwhal,1
+./data/axolotl/axolotl-97.jpg,"Axolotl, an amphibian swimming in a clear freshwater habit.",axolotl,2
+./data/narwhal/narwhal-209.jpg,generate an image of a narwhal near the ocean floor with a person swimming next to it,narwhal,1
+./data/narwhal/narwhal-186.jpg,create a cartoon image of a majestic narwhal hunting its next meal deep in the sea,narwhal,1
+./data/axolotl/axolotl-23.jpg,an axolotl holding its child and skiing down a groomed trail,axolotl,2
+./data/narwhal/narwhal-152.jpg,anime style narwal eating chocolate cake,narwhal,1
+./data/parrot/parrot-205.jpg,create an image of a parrot with a rainforest backdrop,parrot,0
+./data/parrot/parrot-38.jpg,Please draw an image of a red parrot stands on the tree,parrot,0
+./data/axolotl/axolotl-99.jpg,"A playful axolotl exploring an underwater cave illuminated by glowing bioluminescent algae, with soft blue and green lighting, in a fantasy-inspired digital art style.",axolotl,2
+./data/parrot/parrot-79.jpg,"Generate an image of a parrot. The time period is the 2200s, and you are situated in what is left of the rainforests. The parrot hides in what is left of nature and is threatened by human industrial progress. The style is futuristic, shot like a sci-fi movie that underlines the need for species protection.",parrot,0
+./data/parrot/parrot-180.jpg,parrot seen from a train window flying opposite,parrot,0
+./data/axolotl/axolotl-137.jpg,"Draw me a picture of an axolotl lying in a rainforest, alert and attentive to the sounds of its surroundings.",axolotl,2
+./data/parrot/parrot-32.jpg,Generate an image of a parrot,parrot,0
+./data/axolotl/axolotl-33.jpg,An axolotl wearing a hat is playing guitar. Please use cartoon style.,axolotl,2
+./data/axolotl/axolotl-155.jpg,a photorealistic pet axolotl in its tank,axolotl,2
+./data/narwhal/narwhal-56.jpg,narwhal walking on land at dusk in the year 1000AD using its walker,narwhal,1
+./data/narwhal/narwhal-82.jpg,narwhal drinking soda on a beach natural,narwhal,1
+./data/narwhal/narwhal-35.jpg,realistic narwhal in a fish tank,narwhal,1
+./data/axolotl/axolotl-40.jpg,"Imagine a cheerful axolotl swimming in a majestic underwater world, surrounded by colorful plants, tiny fish, and shimmering sunlight filtering through the green and blue water. Its pink, frilly gills stand out against the clear blue water, creating a whimsical scene.",axolotl,2
+./data/axolotl/axolotl-39.jpg,"Please draw an image of a golden Axolotl drinks water, using cartoon style ",axolotl,2
+./data/narwhal/narwhal-21.jpg,"narwal eating a banana at the top of the empire state building, realistic",narwhal,1
+./data/axolotl/axolotl-162.jpg,"Generate an axolotl specimen covered entirely by a black cloth, yet people can still tell it’s an axolotl by the overall shape. The setting is in the middle of a gallery with many people observing this mysterious artwork. I need this for my art class.",axolotl,2
+./data/axolotl/axolotl-113.jpg,Axolotl running in dark woods with a backpack,axolotl,2
+./data/parrot/parrot-148.jpg,"A vivid parrot perched on a tropical branch, its vibrant feathers glistening in sunlight.",parrot,0
+./data/axolotl/axolotl-173.jpg,an axolotl in its natural environment,axolotl,2
+./data/axolotl/axolotl-9.jpg,"axolotl tripping on psychedelics to find the meaning of life, after he realized he didn't want to be just a cute axolotl",axolotl,2
+./data/axolotl/axolotl-20.jpg,axolotl drinking pints at an english pub,axolotl,2
+./data/narwhal/narwhal-19.jpg,"A majestic narwhal gliding gracefully beneath shimmering Arctic waters, surrounded by glowing icebergs and a soft ethereal light illuminating the deep ocean, in a cinematic, dreamlike style.",narwhal,1
+./data/parrot/parrot-78.jpg,Generate an image of a parrot in a zoo being fed by its trainer,parrot,0
+./data/parrot/parrot-92.jpg,"generate an image of a parrot. flying in the sky, navy-blue color theme",parrot,0
+./data/parrot/parrot-131.jpg,"A minimalist line art drawing of a parrot in flight, using only three bold colors against a stark white background",parrot,0
+./data/parrot/parrot-67.jpg,Please generate an image: A parrot is riding on a dog running across New York City.,parrot,0
+./data/parrot/parrot-113.jpg,A parrot feeding worm to its babies beside a river in India,parrot,0
+./data/axolotl/axolotl-176.jpg,generate a Axolotl that is themed into a van gough painting,axolotl,2
+./data/parrot/parrot-90.jpg,parrot at night in jazz club singing song for an audience,parrot,0
+./data/parrot/parrot-23.jpg,a parrot suffering from a career crisis in a conference room with other parrots,parrot,0
+./data/narwhal/narwhal-197.jpg,"generate an image of narwhal swimming in the ocean, realistic",narwhal,1
+./data/parrot/parrot-163.jpg,"A happy parrot enjoying the sunrise in the Amazon jungle, hopeful, digital art",parrot,0
+./data/parrot/parrot-182.jpg,Parrot getting drafted to the Steelers franchise to turn the team around,parrot,0
+./data/axolotl/axolotl-187.jpg,create a cartoon image of a funny axolotl looking for food near the water,axolotl,2
+./data/parrot/parrot-84.jpg,"parrot inside a cage screaming for help, natural",parrot,0
+./data/parrot/parrot-202.jpg,parrot having a picnic with other animals,parrot,0
+./data/narwhal/narwhal-156.jpg,sketch of cute narwal in space,narwhal,1
+./data/parrot/parrot-105.jpg,A colorful parrot in a Brazilian rainforest with layered feathers and a large beak.,parrot,0
+./data/parrot/parrot-81.jpg,parrot celebrating for birthday by dancing in amazon rainforest during night,parrot,0
+./data/narwhal/narwhal-105.jpg,A small Narwhal in freezing water with a large jaw.,narwhal,1
+./data/axolotl/axolotl-177.jpg,"axolotl in space eating a pizza, photorealistic",axolotl,2
+./data/parrot/parrot-109.jpg,image of a parrot,parrot,0
+./data/parrot/parrot-159.jpg,Draw me a cartoon of a green parrot standing on a branch in South Africa for a poster in my academic essay,parrot,0
+./data/narwhal/narwhal-88.jpg,"generate an image of a narwhal in the Atlantic Ocean, where the narwhal is swimming away from an island.",narwhal,1
+./data/axolotl/axolotl-163.jpg,"An axolotl and it's large group of other axolotl playing cards at night at sea, picasso",axolotl,2
+./data/parrot/parrot-102.jpg,Generate a cinematic image of a parrot majestically singing.,parrot,0
+./data/axolotl/axolotl-118.jpg,"Draw me a playful axolotl, frolicking with its pod, under the midnight sun, watercolor painting, soft and dreamy.",axolotl,2
+./data/narwhal/narwhal-41.jpg,"Narwhal with a bow breaks through icy waters under green and blue aurora borealis, in a photorealistic style",narwhal,1
+./data/narwhal/narwhal-139.jpg,Draw me a picture of dead narwhal floating on the sea and there is a hawk flying above it in the sky,narwhal,1
